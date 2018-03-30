@@ -1,0 +1,16 @@
+version: 0.0
+os: linux
+files:
+  - source: /target/VijayJavaHelloWorld.war
+    destination: /tmp/tomcat-webapp
+hooks:
+  ApplicationStop:
+    - location: scripts/stop_server.sh
+    - location: scripts/remove_old_application.sh
+      timeout: 300
+      runas: root
+  ApplicationStart:
+    - location: scripts/copy_new_application.sh
+    - location: scripts/start_server.sh
+      timeout: 300
+      runas: root 
