@@ -20,5 +20,6 @@
     </head>
     <body>
         <h1>Vijay AWS CICD Hello World. Todays date is <%=todaysDate%> </h1>
+        <h2>Application Version : V2</h2>
     </body>
 </html>
