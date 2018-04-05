@@ -17,3 +17,5 @@ phases:
 artifacts:
   files:
     - target/VijayJavaHelloWorld.war
+    - appspec.yml
+    - scripts/*
