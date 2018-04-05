@@ -1,3 +1,2 @@
-[![Build Status](https://travis-ci.org/code4innerpeace/travis_flask_helloworld.svg?branch=master)](https://travis-ci.org/code4innerpeace/travis_flask_helloworld)
-![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaW1LT2pkWDVMSWEzMk5RUnNrdE1vTzBKZWI0ZXBTcU9IZUhPT0pxVzhWYVpRSTZXUVY3V3g0dzljemNSREZhdXJtTGFGdllOVjFPRlpiNXlhQnJxaHEwPSIsIml2UGFyYW1ldGVyU3BlYyI6IndRTTdsc1hDTDcvTXdTU0kiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
-# My Simple Python Hello World Web App
+![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiR0tWV0pXTDVlc3Q4TVpkb3h4bUdIWkZmL01OUDFhZTY3R2cvRVMzRW5zQ3JiaUhyS2N0ZUtDcDZZTVF1YVozd2RoMTVzMFhESFpZNElSRWJFcFBEc1NZPSIsIml2UGFyYW1ldGVyU3BlYyI6InhnV0VlSlRUak9Fb1dkY2EiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+# My Simple Java App to test CICD using AWS Services 
